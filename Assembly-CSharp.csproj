@@ -61,6 +61,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Player\Scripts\Player_movement.cs" />
+    <Compile Include="Assets\Player\Scripts\Player_CameraRotation.cs" />
+    <Compile Include="Assets\PickUpScript.cs" />
+    <Compile Include="Assets\Player\Scripts\CameraPosition.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
